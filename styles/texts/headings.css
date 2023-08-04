@@ -1,0 +1,29 @@
+ /* Text Styles  */ 
+
+.headings-h1 {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 38px;
+          line-height: normal;
+          letter-spacing: 0%;
+}
+
+.headings-h2 {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 30px;
+          line-height: normal;
+          letter-spacing: 0%;
+}
+
+.headings-subhead {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 20px;
+          line-height: 26px;
+          letter-spacing: 0%;
+}
+

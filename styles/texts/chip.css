@@ -1,0 +1,11 @@
+ /* Text Styles  */ 
+
+.chip-label {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 12px;
+          line-height: normal;
+          letter-spacing: -1.5%;
+}
+

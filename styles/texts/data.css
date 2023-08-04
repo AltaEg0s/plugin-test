@@ -1,0 +1,11 @@
+ /* Text Styles  */ 
+
+.data-qty {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 15px;
+          line-height: 15px;
+          letter-spacing: 0%;
+}
+

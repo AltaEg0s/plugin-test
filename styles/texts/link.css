@@ -1,0 +1,11 @@
+ /* Text Styles  */ 
+
+.link-small {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 14px;
+          line-height: normal;
+          letter-spacing: 0px;
+}
+

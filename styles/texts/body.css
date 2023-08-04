@@ -1,0 +1,74 @@
+ /* Text Styles  */ 
+
+.body-body-large {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 18px;
+          line-height: 22px;
+          letter-spacing: 0%;
+}
+
+.body-body {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 16px;
+          line-height: 22px;
+          letter-spacing: 0%;
+}
+
+.body-body-b {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 16px;
+          line-height: 22px;
+          letter-spacing: 0%;
+}
+
+.body-tableau {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: 0%;
+}
+
+.body-tableau-b {
+          font-family: Bold;
+          font-weight: 700;
+          font-style: normal;
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: 0%;
+}
+
+.body-small {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 14px;
+          line-height: 20px;
+          letter-spacing: 0%;
+}
+
+.body-x-small {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 12px;
+          line-height: normal;
+          letter-spacing: 0px;
+}
+
+.body-micro {
+          font-family: Regular;
+          font-weight: 400;
+          font-style: italic;
+          font-size: 10px;
+          line-height: normal;
+          letter-spacing: 0px;
+}
+
