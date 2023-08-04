@@ -1,0 +1,9 @@
+@import "../../../_primitives/Light/radius.css";
+
+ /* Aliases  */
+
+:root {
+	--baseline-radius-small: var(--radius-small);
+	--baseline-radius-large: var(--radius-large);
+}
+

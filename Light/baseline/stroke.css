@@ -1,0 +1,9 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+
+ /* Aliases  */
+
+:root {
+	--baseline-stroke-default: var(--color-scales-grey-300);
+	--baseline-stroke-hover: var(--color-scales-grey-400);
+}
+

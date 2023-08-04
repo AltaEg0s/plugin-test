@@ -1,0 +1,12 @@
+@import "../brand/secondary.css";
+@import "secondary.css";
+
+ /* Aliases  */
+
+:root {
+	--button-secondary-stroke-bg: var(--brand-secondary-secondary);
+	--button-secondary-stroke-hover: var(--brand-secondary-secondary-hover);
+	--button-secondary-stroke-click: var(--brand-secondary-secondary-click);
+	--button-secondary-label: var(--button-secondary-stroke-bg);
+}
+

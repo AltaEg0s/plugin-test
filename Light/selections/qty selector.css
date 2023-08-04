@@ -1,0 +1,21 @@
+@import "../button/primary.css";
+@import "../content.css";
+@import "../baseline/stroke.css";
+@import "../baseline/fills.css";
+
+ /* Variables  */
+
+:root {
+	--selections-qty-selector-qty: 1px;
+}
+
+ /* Aliases  */
+
+:root {
+	--selections-qty-selector-action: var(--button-primary-fill-bg);
+	--selections-qty-selector-qty-colour: var(--content-body);
+	--selections-qty-selector-stroke: var(--baseline-stroke-default);
+	--selections-qty-selector-qty-bg: var(--baseline-fills-control-bg);
+	--selections-qty-selector-action-label: var(--content-body-reverse);
+}
+

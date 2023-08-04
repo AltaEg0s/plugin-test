@@ -1,0 +1,19 @@
+@import "baseline/stroke.css";
+@import "content.css";
+@import "text field.css";
+@import "brand/primary.css";
+@import "../../_primitives/Light/color-scales/red.css";
+
+ /* Aliases  */
+
+:root {
+	--text-field-stroke: var(--baseline-stroke-default);
+	--text-field-label: var(--content-body);
+	--text-field-icon: var(--text-field-error);
+	--text-field-input: var(--content-body);
+	--text-field-hint: var(--content-h4);
+	--text-field-stroke-hover: var(--baseline-stroke-hover);
+	--text-field-stroke-selected: var(--brand-primary-primary);
+	--text-field-error: var(--color-scales-red-500);
+}
+

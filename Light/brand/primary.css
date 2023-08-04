@@ -1,0 +1,10 @@
+@import "../../../_primitives/Light/color-scales/blue.css";
+
+ /* Aliases  */
+
+:root {
+	--brand-primary-primary: var(--color-scales-blue-700);
+	--brand-primary-primary-hover: var(--color-scales-blue-800);
+	--brand-primary-primary-click: var(--color-scales-blue-900);
+}
+

@@ -1,0 +1,8 @@
+@import "../../../_primitives/Light/accessibility.css";
+
+ /* Aliases  */
+
+:root {
+	--baseline-accessibility-keyboard-focus: var(--accessibility-focus);
+}
+

@@ -1,0 +1,11 @@
+@import "../content.css";
+@import "../../../_primitives/Light/color-scales/grey.css";
+
+ /* Aliases  */
+
+:root {
+	--lists-items-cell-hover: var(--content-body-reverse);
+	--lists-items-divider: var(--color-scales-grey-100);
+	--lists-items-divider-hover: var(--color-scales-grey-200);
+}
+

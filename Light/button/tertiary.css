@@ -1,0 +1,10 @@
+@import "../brand/tertiary.css";
+
+ /* Aliases  */
+
+:root {
+	--button-tertiary-label: var(--brand-tertiary-tertiary);
+	--button-tertiary-label-hover: var(--brand-tertiary-tertiary-hover);
+	--button-tertiary-label-click: var(--brand-tertiary-tertiary-click);
+}
+

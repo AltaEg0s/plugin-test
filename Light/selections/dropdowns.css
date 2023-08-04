@@ -1,0 +1,13 @@
+@import "../button/primary.css";
+@import "../content.css";
+@import "../baseline/stroke.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-dropdowns-icon: var(--button-primary-fill-bg);
+	--selections-dropdowns-option: var(--content-h4);
+	--selections-dropdowns-selected: var(--content-body);
+	--selections-dropdowns-stroke: var(--baseline-stroke-default);
+}
+

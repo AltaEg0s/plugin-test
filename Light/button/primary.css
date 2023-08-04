@@ -1,0 +1,12 @@
+@import "../brand/primary.css";
+@import "../content.css";
+
+ /* Aliases  */
+
+:root {
+	--button-primary-fill-bg: var(--brand-primary-primary);
+	--button-primary-fill-hover: var(--brand-primary-primary-hover);
+	--button-primary-fill-click: var(--brand-primary-primary-click);
+	--button-primary-label: var(--content-body-reverse);
+}
+

@@ -1,0 +1,13 @@
+@import "../button/primary.css";
+@import "../content.css";
+@import "../../../_primitives/Light/color-scales/grey.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-calendar-action: var(--button-primary-fill-bg);
+	--selections-calendar-date-selected: var(--content-body-reverse);
+	--selections-calendar-date-day: var(--content-body);
+	--selections-calendar-date-ext: var(--color-scales-grey-200);
+}
+

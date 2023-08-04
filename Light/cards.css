@@ -1,0 +1,11 @@
+@import "content.css";
+@import "baseline/fills.css";
+
+ /* Aliases  */
+
+:root {
+	--cards-heading: var(--content-h3);
+	--cards-body: var(--content-body);
+	--cards-bg: var(--baseline-fills-container-bg);
+}
+

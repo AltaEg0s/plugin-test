@@ -1,0 +1,10 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+@import "../content.css";
+
+ /* Aliases  */
+
+:root {
+	--button-inactive-inactive-bg: var(--color-scales-grey-50);
+	--button-inactive-label: var(--content-body);
+}
+

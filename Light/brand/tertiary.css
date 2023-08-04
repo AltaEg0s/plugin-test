@@ -1,0 +1,10 @@
+@import "../../../_primitives/Light/color-scales/red.css";
+
+ /* Aliases  */
+
+:root {
+	--brand-tertiary-tertiary: var(--color-scales-red-700);
+	--brand-tertiary-tertiary-hover: var(--color-scales-red-800);
+	--brand-tertiary-tertiary-click: var(--color-scales-red-900);
+}
+

@@ -1,0 +1,11 @@
+@import "../brand/primary.css";
+@import "../baseline/stroke.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-checkbox-check: var(--brand-primary-primary);
+	--selections-checkbox-stroke: var(--baseline-stroke-default);
+	--selections-checkbox-stroke-selected: var(--brand-primary-primary);
+}
+

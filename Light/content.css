@@ -1,0 +1,15 @@
+@import "../../_primitives/Light/color-scales/grey.css";
+@import "brand/primary.css";
+
+ /* Aliases  */
+
+:root {
+	--content-body: var(--color-scales-grey-800);
+	--content-body-reverse: var(--color-scales-grey-50);
+	--content-h3: var(--brand-primary-primary);
+	--content-h1: var(--brand-primary-primary);
+	--content-h2: var(--brand-primary-primary);
+	--content-link: var(--brand-primary-primary);
+	--content-h4: var(--color-scales-grey-600);
+}
+

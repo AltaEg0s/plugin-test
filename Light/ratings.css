@@ -1,0 +1,13 @@
+@import "brand/primary.css";
+@import "content.css";
+@import "baseline/fills.css";
+
+ /* Aliases  */
+
+:root {
+	--ratings-selected: var(--brand-primary-primary);
+	--ratings-body: var(--content-body);
+	--ratings-bg: var(--baseline-fills-container-bg);
+	--ratings-bg-frame: var(--baseline-fills-control-bg);
+}
+

@@ -1,0 +1,11 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+@import "../brand/primary.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-tabs-tab-inactive: var(--color-scales-grey-400);
+	--selections-tabs-line: var(--color-scales-grey-100);
+	--selections-tabs-selection: var(--brand-primary-primary);
+}
+

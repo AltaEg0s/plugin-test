@@ -1,0 +1,11 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+@import "../content.css";
+
+ /* Aliases  */
+
+:root {
+	--lists-chips-chip-bg: var(--color-scales-grey-50);
+	--lists-chips-label: var(--content-body);
+	--lists-chips-chip-bg-hover: var(--color-scales-grey-100);
+}
+

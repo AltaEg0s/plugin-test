@@ -1,0 +1,16 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+
+ /* Variables  */
+
+:root {
+	--baseline-fills-canvas: #FCFCFCFF;
+	--baseline-fills-glass: #EEEEEECC;
+	--baseline-fills-container-bg: #FFFFFFFF;
+}
+
+ /* Aliases  */
+
+:root {
+	--baseline-fills-control-bg: var(--color-scales-grey-100);
+}
+

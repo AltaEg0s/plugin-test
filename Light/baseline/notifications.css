@@ -1,0 +1,16 @@
+@import "../../../_primitives/Light/color-scales/green.css";
+@import "../../../_primitives/Light/color-scales/amber.css";
+@import "../../../_primitives/Light/color-scales/red.css";
+@import "../../../_primitives/Light/color-scales/yellow.css";
+
+ /* Aliases  */
+
+:root {
+	--baseline-notifications-bg-success: var(--color-scales-green-50);
+	--baseline-notifications-bg-warning: var(--color-scales-amber-50);
+	--baseline-notifications-bg-alert: var(--color-scales-red-50);
+	--baseline-notifications-success-text: var(--color-scales-green-800);
+	--baseline-notifications-warning-text: var(--color-scales-yellow-800);
+	--baseline-notifications-alert-text: var(--color-scales-red-800);
+}
+

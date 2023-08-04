@@ -1,0 +1,13 @@
+@import "../brand/primary.css";
+@import "../content.css";
+@import "../baseline/fills.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-segmented-control-action: var(--brand-primary-primary);
+	--selections-segmented-control-label: var(--content-body-reverse);
+	--selections-segmented-control-unselected: var(--content-body);
+	--selections-segmented-control-bg: var(--baseline-fills-control-bg);
+}
+

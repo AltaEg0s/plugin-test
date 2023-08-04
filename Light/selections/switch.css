@@ -1,0 +1,12 @@
+@import "../baseline/fills.css";
+@import "../content.css";
+@import "../brand/primary.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-switch-bg: var(--baseline-fills-control-bg);
+	--selections-switch-off: var(--content-body);
+	--selections-switch-on: var(--brand-primary-primary);
+}
+

@@ -1,0 +1,10 @@
+@import "../brand/primary.css";
+@import "../baseline/stroke.css";
+
+ /* Aliases  */
+
+:root {
+	--selections-radio-dot: var(--brand-primary-primary);
+	--selections-radio-stroke: var(--baseline-stroke-default);
+}
+

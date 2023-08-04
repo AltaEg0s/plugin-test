@@ -1,0 +1,14 @@
+@import "../../../_primitives/Light/color-scales/grey.css";
+@import "../../../_primitives/Light/color-scales/green.css";
+@import "../../../_primitives/Light/color-scales/orange.css";
+@import "../../../_primitives/Light/color-scales/red.css";
+
+ /* Aliases  */
+
+:root {
+	--baseline-status-offline: var(--color-scales-grey-200);
+	--baseline-status-online: var(--color-scales-green-500);
+	--baseline-status-away: var(--color-scales-orange-500);
+	--baseline-status-busy: var(--color-scales-red-600);
+}
+
